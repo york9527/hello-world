@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleTest
 {
-    class Program
+    class Test
     {
-        static void Main(string[] args)
-        {
-            Console.Write("Hello git.");
-        }
     }
 }
